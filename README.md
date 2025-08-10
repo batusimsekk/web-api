@@ -8,7 +8,7 @@ Veriler geçici olarak bellekte (`static List<Product>`) tutulur, veritabanı ba
 
 ## 🚀 Kullanılan Teknolojiler
 
-- .NET 6 / .NET 7
+- .NET 8
 - ASP.NET Core Web API
 - C#
 
